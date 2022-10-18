@@ -1,0 +1,25 @@
+.childpoke{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+   
+}
+.containerPoke{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    margin: 2rem;
+    border-radius: 10px;
+    background-color: rgb(66, 209, 30);
+}
+
+.containerPoke p{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size:20px;
+}
+.childpoke img{
+    width: 180px;
+}
